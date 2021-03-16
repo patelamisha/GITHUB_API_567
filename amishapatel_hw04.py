@@ -1,6 +1,6 @@
 """ Author  :: Amisha Patel 
-    Created :: 03/08/2021
-    Assigment ::GIT Repositories & Commits """
+    Created :: 03/18/2021
+    Assigment ::Mock the GitHub API"""
 import requests
 import json
 """This function to interface with an external REST-based APIs."""
